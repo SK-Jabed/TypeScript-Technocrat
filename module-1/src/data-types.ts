@@ -19,23 +19,23 @@
 
   let any;
 
-  //   let d: number;
+    let d: number;
 
-  //   d = 123;
+    d = 123;
 
-  //   // Array
+    // Array
 
-  //   let friends: string[] = ["rachel", "monica"];
+    let friends: string[] = ["rachel", "monica"];
 
-  //   let eligibleRollList: number[] = [1, 3];
+    let eligibleRollList: number[] = [1, 3];
 
-  //   eligibleRollList.push("dd");
+    // eligibleRollList.push("dd");
 
-  //   // tuple --> array --> order --> type of values
+    // tuple --> array --> order --> type of values
 
-  //   let coordinates: [number, number] = [1, 5];
+    let coordinates: [number, number] = [1, 5];
 
-  //   let ageName: [number, string, boolean] = [50, "Mr.X", true];
+    let ageName: [number, string, boolean] = [50, "Mr.X", true];
 
-  //   ageName[0] = 67;
+    ageName[0] = 67;
 }
