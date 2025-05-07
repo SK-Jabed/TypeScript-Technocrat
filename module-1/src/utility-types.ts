@@ -39,12 +39,12 @@
 
   const EmptyObj: Record<string, unknown> = {};
 
-//   const obj1: MyObj = {
-//     a: "aa",
-//     b: "bb",
-//     c: "cc",
-//     d: "dd",
-//     e: 6,
-//   };
+  //   const obj1: MyObj = {
+  //     a: "aa",
+  //     b: "bb",
+  //     c: "cc",
+  //     d: "dd",
+  //     e: 6,
+  //   };
   //
 }
