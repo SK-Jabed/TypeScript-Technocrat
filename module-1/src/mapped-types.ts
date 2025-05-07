@@ -18,10 +18,12 @@
   //   height: string;
   //   width: string
   // }
+  
   // keyof AreaNumber => "height"|"width"
 
   // T => {height:string;width:number}
   // key => T["width"]
+
   type AreaString<T> = {
     [key in keyof T]: T[key];
   };
