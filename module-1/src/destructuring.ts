@@ -1,4 +1,5 @@
 {
+  // 
   let numbers: number[] = [2, 3, 4, 5, 6];
 
   type user = {
@@ -18,4 +19,5 @@
     age: 34,
     email: "mosalah@gmail.com",
   };
+  // 
 }
