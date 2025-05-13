@@ -1,4 +1,5 @@
 {
+  // 
     type player = {
       name: string;
       age: number;
@@ -9,4 +10,5 @@
       name: "Leo Messi",
       age: 37,
     };
+    // 
 }
