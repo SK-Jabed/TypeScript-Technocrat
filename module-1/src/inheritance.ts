@@ -10,7 +10,7 @@
       this.age = age;
       this.address = address;
     }
-    
+
     getSleep(numOfHours: number) {
       console.log(`${this.name} will sleep for ${numOfHours}`);
     }
