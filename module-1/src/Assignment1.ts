@@ -6,8 +6,6 @@ function formatString(input: string, toUpper?: boolean): string {
   }
 }
 
-
-
 function filterByRating(
   items: { title: string; rating: number }[]
 ): { title: string; rating: number }[] {
